@@ -1,0 +1,21 @@
+name: example_py3
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - perl
+  - sphinx=1.7.2
+  - spacy
+  - nltk
+  - pytest
+  - flaky
+  - pytest-cov
+  - pip:
+    - mxnet
+    - xgboost
+    - opencv-python
+    - tensorflow
+    - scikit-image
+    - keras
+    - graphviz
