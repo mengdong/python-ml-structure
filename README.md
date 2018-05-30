@@ -1,4 +1,4 @@
-project_name
+python-ml-structure
 ==============================
 
 a template for python ml dev
